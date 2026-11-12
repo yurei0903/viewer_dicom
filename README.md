@@ -210,9 +210,3 @@ WW（Window Width）とWL（Window Level）のスライダーを操作して、�
 - 3D Volume Rendering
 - GPUを利用した高速な再構成処理
 - DICOM形式での画像書き出し
-
----
-
-## License
-
-本プロジェクトのライセンスは、利用目的に応じて別途設定してください。
